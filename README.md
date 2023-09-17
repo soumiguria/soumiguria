@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Soumi Guria</h1>
-<h3 align="center">A passionate backend and an android developer from India</h3>
+<h3 align="center">Exploring the Future of Decentralization and Diving Deep into Android Waters, Strengthening the Backend Foundations</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47dvkr8eiquuhxe43v2yvuedxmesxruufpf35lyx0p&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumiguria&label=Profile%20views&color=0e75b6&style=flat" alt="soumiguria" /> </p>
