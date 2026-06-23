@@ -1,24 +1,198 @@
+# Hi 👋, I'm Soumi Guria
 
-<h1 align="center">Hi 👋, I'm Soumi Guria</h1>
-<h3 align="center">Exploring the Future of Decentralization and Diving Deep into Android Waters, Strengthening the Backend Foundations</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47dvkr8eiquuhxe43v2yvuedxmesxruufpf35lyx0p&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+### Software Engineer | Backend Developer | Mobile App Developer | AI/ML Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumiguria&label=Profile%20views&color=0e75b6&style=flat" alt="soumiguria" /> </p>
+Computer Science undergraduate passionate about building scalable backend systems, intelligent applications, and modern mobile experiences.
 
-<p align="left"> <a href="https://twitter.com/guria_soumi" target="blank"><img src="https://img.shields.io/twitter/follow/guria_soumi?logo=twitter&style=for-the-badge" alt="guria_soumi" /></a> </p>
+* 🔭 Currently building AI-powered applications and backend systems
+* 📱 Developing mobile applications using Flutter and React Native
+* ⚙️ Creating scalable APIs with Node.js and Django
+* 🧠 Exploring Machine Learning, Cyber Security, and System Design
+* 🌱 Continuously learning Distributed Systems and Cloud Technologies
+* 📫 Reach me at **[guriasoumi29@gmail.com](mailto:guriasoumi29@gmail.com)**
 
-- 📫 How to reach me **guriasoumi29@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/guria_soumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guria_soumi" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/soumi-guria-8882b224a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumi-guria-8882b224a" height="30" width="40" /></a>
-<a href="https://discord.gg/sweetypie29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sweetypie29" height="30" width="40" /></a>
+## 🚀 About Me
+
+I enjoy transforming ideas into real-world products through software engineering. My interests span across:
+
+* Backend Development
+* Mobile App Development
+* Artificial Intelligence & Machine Learning
+* Cyber Security
+* Blockchain & Decentralized Technologies
+* System Design
+
+I love working on projects that combine technology with practical problem-solving and impactful user experiences.
+
+---
+
+## 🌟 Featured Projects
+
+### 🛡️ Safety Score Prediction System
+
+An AI-powered location safety assessment platform designed to predict safety scores using crime statistics, environmental conditions, infrastructure metrics, and machine learning models.
+
+**Highlights**
+
+* Feature engineering pipeline
+* Proxy-label generation for unlabeled datasets
+* Multiple ML model evaluation
+* Explainable safety predictions
+* Real-time safety scoring
+
+**Tech Stack**
+`Python` `Scikit-Learn` `Pandas` `NumPy` `Machine Learning`
+
+---
+
+### 🛒 E-Commerce Mobile Application
+
+A full-featured cross-platform shopping application built with React Native, offering seamless user experience and scalable architecture.
+
+**Features**
+
+* User Authentication
+* Product Catalog
+* Shopping Cart
+* Order Management
+* Payment Integration
+* Backend API Integration
+
+**Tech Stack**
+`React Native` `JavaScript` `Firebase` `Node.js`
+
+---
+
+### 📱 Mobile Applications
+
+Developed modern cross-platform mobile applications focusing on performance, scalability, and user experience.
+
+**Features**
+
+* Firebase Authentication
+* Cloud Firestore
+* State Management
+* API Integration
+* Responsive UI
+
+**Tech Stack**
+`Flutter` `Dart` `Firebase`
+
+---
+
+### ⚙️ Backend Development Projects
+
+Designed and developed scalable backend services, REST APIs, and database-driven applications.
+
+**Tech Stack**
+`Node.js` `Express.js` `Django` `MongoDB` `PostgreSQL`
+
+**Focus Areas**
+
+* Authentication & Authorization
+* Database Design
+* API Development
+* Performance Optimization
+* Security Best Practices
+
+---
+
+### 🔗 Blockchain & Decentralized Applications
+
+Explored decentralized identity, Web3 applications, blockchain-based authentication systems, and digital asset management.
+
+**Tech Stack**
+`Solidity` `Polygon ID` `Web3`
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,dart" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Mobile Development
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumiguria&show_icons=true&locale=en&layout=compact" alt="soumiguria" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumiguria&" alt="soumiguria" /></p>
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=soumiguria&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumiguria&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumiguria&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Current Focus
+
+* Machine Learning & AI Systems
+* Backend Engineering
+* Mobile Application Development
+* Cyber Security
+* System Design & Scalability
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/soumi-guria-8882b224a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:guriasoumi29@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### Building intelligent systems, scalable backends, and impactful mobile applications 🚀
+
+</div>
